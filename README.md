@@ -26,13 +26,6 @@ Se desarrolló un análisis integral de datos mediante las siguientes etapas:
 
 ---
 
-## Resultados y Hallazgos
-
-- Se identificaron las plataformas y géneros con mayor potencial comercial según el comportamiento histórico de ventas.
-- Se analizaron los factores asociados al desempeño de los videojuegos en diferentes mercados.
-- Se detectaron patrones de consumo por región que permiten orientar estrategias de marketing.
-- Los resultados proporcionaron información útil para la planificación de campañas publicitarias y la toma de decisiones estratégicas basadas en datos.
-
 
 
 ## Resultados y Hallazgos
