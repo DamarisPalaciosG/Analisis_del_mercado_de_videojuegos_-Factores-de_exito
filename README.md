@@ -33,6 +33,24 @@ Se desarrolló un análisis integral de datos mediante las siguientes etapas:
 - Se detectaron patrones de consumo por región que permiten orientar estrategias de marketing.
 - Los resultados proporcionaron información útil para la planificación de campañas publicitarias y la toma de decisiones estratégicas basadas en datos.
 
+
+
+## Resultados y Hallazgos
+
+El análisis del mercado de videojuegos permitió identificar factores clave que influyen en el éxito comercial y las tendencias de consumo.
+
+- Se determinó que las plataformas tienen un ciclo de vida aproximado de **9 a 12 años**, identificando a **PS4, Xbox One y plataformas digitales** como oportunidades relevantes para 2017.
+
+- Se encontró que las ventas están concentradas en pocos títulos exitosos, principalmente franquicias como **Grand Theft Auto, Call of Duty y Mario Kart**, y que los juegos multiplataforma alcanzan mayor alcance comercial.
+
+- Las reseñas de críticos presentan mayor relación con el desempeño comercial que las valoraciones de usuarios.
+
+- Los géneros con mayor demanda fueron **Action, Sports y Shooter**, mientras que el análisis regional mostró diferencias de preferencias: Norteamérica y Europa con mayor afinidad por acción y deportes, y Japón con mayor interés en RPG y plataformas portátiles.
+
+- Las pruebas estadísticas confirmaron diferencias significativas entre las calificaciones promedio de **Xbox One y PC**, aportando evidencia para orientar estrategias comerciales.
+
+Los hallazgos permitieron generar insights para optimizar la selección de productos, campañas publicitarias e inversión de marketing mediante decisiones basadas en datos.
+
 ---
 
 ## Herramientas y Tecnologías
